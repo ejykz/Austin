@@ -1,0 +1,115 @@
+!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <link rel="stylesheet" href="main.css" type="text/css">
+    </head>
+    <body>
+
+        <nav class="navbar">
+               
+                  <div class="brand">aus<span class="net">plus</span></div>
+            <ul class="topnav">
+                <li><a class="nav-link href="#">login</a></li>
+                <li><a class="nav-link href="#">signup</a></li>
+            </ul>
+                    
+           
+        </nav>
+        <section class="container">
+            <h1 class="header-1">save the environment today; lets go green.</h1>
+            <div class="section-1-wrapper">
+                <div class="logo">
+                    <img class="nature-image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbZFkqbwYI3NjcNjjlwlCroyZO_iN0WzMt3AJeYNoaKe2NAknK&usqp=CAU">
+                </div>
+                <div class="signup"><h3 class="form-header">Create profile</h3>
+                    <form>
+                        <label for="username">*Username:</label>
+                        <div class="form-group"></div>
+                        <input type="text" id="username"  value="username">
+                        <div class="form-group"></div>
+                        <label for="password">*Password:</label>
+                        <div class="form-group"></div>
+                        <input type="password" id="password"  value="password">
+                        <div class="form-group"></div>
+                        <label for="email">*Email:</label>
+                        <div class="form-group"></div>
+                        <input type="email" id="email"  value="email">
+                        <div class="form-group"></div>
+                        <label for="phone">*Phone no:</label>
+                        <div class="form-group"></div>
+                        <input type="tel" id="Phone"  value="phone no">
+
+                    </form>
+                </div>
+            </div>
+        </section>
+       <section class="container">
+           <article class="article-info">
+               <p> 
+                Contrary to popular belief, Lorem Ipsum is not simply
+                 random text. It has roots in a piece of classical Latin
+                  literature from 45 BC, making it over 2000 years old.
+                   Richard McClintock, a Latin professor at 
+                Hampden-Sydney College in Virginia, looked
+                 up one of the more obscure Latin words, consectetur,
+                  from a Lorem Ipsum passage, and going 
+                  through the cites of the word in classical literature, 
+                  discovered the undoubtable source. Lorem Ipsum comes from 
+                  sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum"
+                   (The Extremes of Good and Evil) by Cicero, written in 45 BC. 
+                   This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+                The standard chunk of Lorem Ipsum used   since the 1500s is
+                 reproduced below for those interested. Sectio
+                 </p>
+           </article>
+       </section>
+       <footer class="footsy">
+           <div class="container">
+               <div class="footsy-wrapper">
+               <ul class="footsy-nav">
+                   <li><a href="#">home</a></li>
+                   <li><a href="#">product</a></li>
+                   <li><a href="#">about</a></li>
+                   <li><a href="#">contact</a></li>
+               </ul>
+               <div class="message-wrapper">
+                   <div class="message">
+                   <h3 class="header-header">the climate we distory</h3>
+                   <div class="footsy-info"> 
+                    This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+                    The standard chunk of Lorem Ipsum used.
+                   </div>
+                </div>
+               </div>
+               <div class="message-wrapper">
+               <div class="message">
+                <h3 class="header-header">the climate we distory</h3>
+                <div class="footsy-info"> 
+                 This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+                 The standard chunk of Lorem Ipsum used.  
+                </div>
+             </div>
+             </div>
+             <div class="message-wrapper">
+             <div class="message">
+                <h3 class="header-header">the climate we distory</h3>
+                <div class="footsy-info"> 
+                 This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+                 The standard chunk of Lorem Ipsum used. 
+                </div>
+             </div>
+             </div>
+             <div class="message-wrapper">
+             <div class="message">
+                <h3 class="header-header">water resources</h3>
+                <div class="footsy-info"> 
+                 This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+                 The standard chunk of Lorem Ipsum used.  
+                </div>
+                </div>
+             </div>
+            </div>
+           </div>
+           <div class="right">&#169;Coppyright 2020 Ausplus LLC:</div>
+       </footer>
